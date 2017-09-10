@@ -1,0 +1,122 @@
+#myCanvas{
+    border-radius: 12px;
+}
+
+.block{
+	width:75%;
+}
+
+#canvasholder{
+	height: 600px;
+	border: 2px solid #800000;
+    border-radius: 12px;
+    text-align: center;
+    background-color: #ffffcc;
+    margin-bottom: 2.5px;
+}
+
+#title{
+	font-size: 30px;
+	color: #990000;
+}
+
+.makelean{
+	margin-top: 2.5px;
+	margin-bottom: 2.5px;
+}
+
+.outsideblock{
+	margin-bottom: 2.5px;
+	border: 2px solid #800000;
+    border-radius: 9px;
+    background-color: #cccccc;
+}
+
+.insideblock{
+	margin-right: auto;
+	margin-left: auto;
+	border: 2px solid #800000;
+    border-radius: 5px;
+    width:98.75%;
+    background-color: #ffff99;
+    margin-top: 5.5px;
+    margin-bottom: 5.5px;
+    font-size: 20px;
+}
+
+#tablediv{
+	display:table;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 5.5px;
+	border: 2px solid #800000;
+    border-radius: 5px;
+    width:98.75%;
+}
+
+table,td,th{
+	border-collapse:collapse;
+	text-align:center;
+	font-family:Verdana, sans-serif;
+	border: 2px solid green;
+}
+
+.yellow{
+	color:#ffff00;
+}
+
+.blue{
+	color:#0033cc;
+}
+
+.red{
+	color:#cc0000;
+}
+
+.fsize{
+	font-weight: bold;
+}
+
+table{
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 5px;
+	margin-bottom: 5px;	
+	width: 75%;
+}
+
+td,th {
+	width:auto;
+}
+
+th{
+	color:black;
+	font-size: 17.5px;
+	font-weight: bold;
+}
+
+#lon,#lat{
+	display:inline-block;
+	margin-top: auto;
+	margin-bottom: auto;
+	border-radius: 5px;
+	width:137.5px;
+	font-size: 22.5px;
+}
+
+.inline{
+	display: inline-block;
+}
+
+.ddmenu{
+	border-radius: 5px;
+	font-size: 15px;
+	width: 42.5px;
+}
+
+.button{
+	color: #ffff66;
+	font-size: 20px;
+	background-color: #003300;
+	border-radius: 5px;
+}
